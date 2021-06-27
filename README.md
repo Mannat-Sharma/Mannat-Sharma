@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on Frontend.
+-🔭 I’m currently working on Frontend Development.
 
 -🌱 I’m currently learning Web Development.
 
