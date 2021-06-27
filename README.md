@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Frontend
-🌱 I’m currently learning Web Development
-📫 How to reach me: https://www.linkedin.com/in/mannat-sharma-377391195/
+-🔭 I’m currently working on Frontend
+-🌱 I’m currently learning Web Development
+-📫 How to reach me: https://www.linkedin.com/in/mannat-sharma-377391195/
